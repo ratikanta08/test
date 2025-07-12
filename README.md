@@ -1,2 +1,2 @@
 # test
-test description
+test description for git command demonstration
